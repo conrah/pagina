@@ -32,6 +32,3 @@
     <footer>
         <p>Entre em contato: conradocf13@gmail.com</p>
     </footer>
-    
-</body>
-</html>
