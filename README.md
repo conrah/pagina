@@ -18,13 +18,13 @@
         <h4>Meus projetos</h4>
         <div>
             <div>
-                <h5>Projeto 1</h5>
+                <h5>Projeto</h5>
             </div>
             <div>
-                <h5>Projeto 2</h5>
+                <h5>Projeto</h5>
             </div>
             <div>
-                <h5>Projeto 3</h5>
+                <h5>Projeto</h5>
             </div>
         </div>
     </div>
